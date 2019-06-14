@@ -31,3 +31,5 @@ Kalau dijelaskan, maka kurang lebih sbb:
 1. Bagian **inurl:www.sjdih.depkeu.go.id/fullText/2010** ini memerintahkan Google untuk mencari di folder 2010 saja. Jika tidak ingin spesifik tahun, maka buang saja tahunnya sehingga menjadi **inurl:www.sjdih.depkeu.go.id/fullText/**
 2. Bagian **intitle:”Peraturan Pemerintah”** ini memerintahkan Google untuk menampilkan halaman dengan title tag Peraturan Pemerintah saja, bukan yang lain.
 3. Bagian **"Undang-Undang Nomor 33 Tahun 2004"** ini diharapkan untuk memeriksa apakah PP yang dicari memiliki konsideran UU tsb.
+
+![cara mencari peraturan dari google](https://raw.githubusercontent.com/BetaUliansyah/BetaUliansyah.github.io/master/img/google-search-query.png)
