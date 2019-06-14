@@ -31,14 +31,15 @@ Perbandingan biaya antar sekolah memang tidak bisa serta-merta diperbandingkan t
 
 | No | Nama Sekolah |	Jenjang Pendidikan yang Diselenggarakan |	Biaya Masuk |	Biaya Bulanan |	Lokasi | Pembina | Website/Kontak |
 |----|--------------|-----------------------------------------|-------------|---------------|--------|---------|----------------|
-|1|	Ibnu Hajar Boarding School (IHBS)|	KB-TK, SD, SMP, SMA| | |			Munjul, Jakarta Timur|	Ust. Zaenal Abidin Syamsudin|	www.ihbs.or.id|
+| 1 |	Ibnu Hajar Boarding School (IHBS) |	KB-TK, SD, SMP, SMA | | | Munjul, Jakarta Timur |	Ust. Zaenal Abidin Syamsudin |	www.ihbs.or.id |
 |2|	SD Arrayahiin |	KB-TK, SD	| 5 jt |	SPP: 290 Snack: 7.500/hari|	Telaga Sakinah, Cikarang Barat|	Ust. Abu Qotadah|	021-89110067, 085693442558, 081283159368|
 |3|	SD Islam Ibnu Umar|	TK, SD, SMP/SMU|	TK: 3,7 SD: 8,5 SMP/SMU: 7,5 SMP Boarding: 8,4	|	 |Legoso, Ciputat, utk Boarding di Pamulang|		www.ibnuumar.sch.id, 021-94870955 (TK), 98267979 (SD), 36402721 (SMPA dan SMU), 92314965 (Boarding), 97059730 (Yayasan WhatsApp), 97059730 (WhatsApp)|
 |4|	SDIT Izzatus Sunnah	|TK, SD|	4.950.000|	SPP: 275.000|	Rawamangun, Jakarta Timur|	Abu Lukman Radio Rodja|	021-41392249 (TK), 021-51146704 (SD)|
 |5|	Al Binaa Islamic Boarding School|	SD |Khusus Yatim	Gratis/Beasiswa Penuh|	|		|	|www.albinaa.or.id, 021-89150720, 081510020335, 085217929203, 085697187568|
 |6|	SD Islam Bina Sunnah|		6,5|	SPP: 300|	Depok		| | |www.sdibinasunnah.or.id, 021-96525847, 021-9371041|
 |7|	Sekolah Islam Nailufar|	TK dan SD| |	|	| Setu, Jakarta Timur|	|	021-92294900, 021-49112875|
-8	Al-‘Arabi	TK, SDIT, SMPT, SMAIT	7 juta – 10 juta	250 ribu	Telaga Sakinah, Cikarang Barat, Bekasi	DR. Ade Hermansyah, Lc.	(021) 91524641, 081310270749
+| 8 |	Al-‘Arabi	| TK, SDIT, SMPT, SMAIT	| 7 juta – 10 juta |	250 ribu |	Telaga Sakinah, Cikarang Barat, Bekasi |	DR. Ade Hermansyah, Lc. |	(021) 91524641, 081310270749 |
+
 9	SD Islam Imam An-Nawawi (IPIN)				Ciracas, Jakarta Timur		021-29823948, 085228402723, 082110717505
 10	Pondok Pesantren Hidayatunnajah	TK, SD, MTs, Aliyah, IM	7,1 juta	750 ribu	Pebayuran, Bekasi		www.hidayatunnajah.or.id, email: hidayatunnajah@gmail.com, 021-89150466, 021-89150467
 11	Pondok Pesantren Islamic Center Bin Baz	TK, SU, SW, Aliyah, Takhossus, IM	1,5 juta – 10 juta	75 ribu – 600 ribu	Piyungan, Bantul, Yogyakarta	Ust. Abu Nida	www.binbaz.or.id, email: info@binbaz.or.id, 0274-4353272
