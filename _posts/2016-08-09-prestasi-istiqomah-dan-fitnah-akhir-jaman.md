@@ -23,7 +23,11 @@ Tangsel, 6 Dzulqo’dah 2437 H/9 Agustus 2016
 Abu Abbas
 
 [1] [https://www.youtube.com/watch?v=xs8O-MFu4yU](https://www.youtube.com/watch?v=xs8O-MFu4yU)
+
 [2] [https://twitter.com/HillaryClinton/status/762675570937298944](https://twitter.com/HillaryClinton/status/762675570937298944)
+
 [3] [http://www.espn.com/olympics/story/_/id/15415007/first-lady-michelle-obama-appears-us-athletes-receives-fencing-lesson-olympian-ibtihaj-muhammad](http://www.espn.com/olympics/story/_/id/15415007/first-lady-michelle-obama-appears-us-athletes-receives-fencing-lesson-olympian-ibtihaj-muhammad)
+
 [4] [https://twitter.com/IbtihajMuhammad](https://twitter.com/IbtihajMuhammad)
+
 [5] [http://hadits.stiba.ac.id/?type=hadits&imam=bukhari&no=6599](http://hadits.stiba.ac.id/?type=hadits&imam=bukhari&no=6599)
