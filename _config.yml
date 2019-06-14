@@ -76,6 +76,8 @@ social-network-links:
   facebook: beta.uliansyah
   github: BetaUliansyah
   twitter: uliansyah
+  linkedin: beta-uliansyah-2042505b
+  instagram: beta.uliansyah
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
@@ -94,10 +96,12 @@ share-links-active:
   twitter: true
   facebook: true
   linkedin: true
+  instagram: true
+  linkedin: true
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "uliansyah.or.id"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
