@@ -4,7 +4,7 @@ title: About me
 # subtitle: Why you'd want to go on a date with me
 ---
 
-Perkenalkan, nama saya Beta Uliansyah. Saya suka mengikuti perkembangan teknologi informasi, khususnya di bidang open source. Menggunakan Linux sejak awal tahun 2000. 
+Perkenalkan, nama saya **Beta Uliansyah**. Saya suka mengikuti perkembangan teknologi informasi, khususnya di bidang open source. Menggunakan Linux sejak awal tahun 2000. 
 
 ### kegiatan dan minat saat ini
 
