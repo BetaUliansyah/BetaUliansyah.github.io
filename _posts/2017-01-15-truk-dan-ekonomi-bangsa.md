@@ -25,7 +25,7 @@ Dari sekian banyak truk yang hilir mudik, tidak satupun yang bermerk lokal, AFAI
 
 Untuk hal kedua ini, idealisme saya masih mencoba berdamai dengan kenyataan. Meskipun hati masih berharap produksi lokal bisa meningkat untuk menghindari ketergantungan pada pihak luar. Toh konsumtif juga nggak buruk-buruk amat. Kita masih bisa makan sampai kenyang, bebas berpendapat, bebas beribadah, infrastruktur terus dibangun. Kurang apa lagi coba?
 
-Urusan membangun keunggulan bangsa, ya memang harus dibangun pelan-pelan. Rasanya masih jauh untuk bisa menandingi Korea. Mereka sudah mulai merasakan enaknya dari hasil investasi di bidang riset. Atau China yang super efisien.
+Urusan membangun keunggulan bangsa, ya memang harus dibangun pelan-pelan. Rasanya masih jauh untuk bisa menandingi Korea. Mereka sudah mulai merasakan [enaknya dari hasil investasi di bidang riset](https://uliansyah.or.id/2013-05-20-belajar-dari-korea/). Atau China yang super efisien.
 
 <p style="text-align: center;">* * *</p>
 
