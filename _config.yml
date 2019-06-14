@@ -105,7 +105,7 @@ url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
 #gtag: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
+google_analytics: "UA-17906067-6"
 
 # Google Tag Manager ID
 #gtm: ""
@@ -157,7 +157,7 @@ title-separator: "-"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Vancouver"
+timezone: "Asia/Jakarta"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
