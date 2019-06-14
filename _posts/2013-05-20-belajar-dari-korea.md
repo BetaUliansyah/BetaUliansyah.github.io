@@ -17,7 +17,7 @@ Nah… di titik ini lah saya tercenung…
 
 **Pertama**, kemajuan teknologi Korea tidak datang dalam sekejap mata. Titik awalnya adalah penguasaan dan adaptasi terhadap teknologi baru. Bagaimana menguasai dan mengejar perkembangan teknologi? Korea bermain di satu fase hulu nan **strategis**, yaitu riset. Riset-riset yang dilakukan oleh orang-orang Korea mampu menghasilkan paten yang aplikatif di bidang teknologi informasi dan komunikasi. Dari paten-paten inilah dibangun produk-produk strategis, seperti chip, layar sentuh dan modul wireless. Dari produk-produk strategis ini, dibentuk lagi produk-produk yang sukses di kalangan konsumen akhir. Sebuah rantai nilai yang luar biasa, dan Korea menguasainya dari hulu ke hilir!
 
-!(https://raw.githubusercontent.com/BetaUliansyah/BetaUliansyah.github.io/master/img/kartu-nama.jpg)
+![kartu nama](https://raw.githubusercontent.com/BetaUliansyah/BetaUliansyah.github.io/master/img/kartu-nama.jpg)
 
 Lihat saja produk Korea yang membuat Amerika ketar-ketir, Samsung Galaxy. Perhatikan bahwa komponen-komponennya didominasi oleh produk asli Korea, mulai dari prosesor sampai layar sentuh. Bahkan Apple pun menggunakan layar sentuh buatan Samsung. Saya belum memastikan alasan Apple membeli dari Samsung, bisa jadi karena harga yang bersaing atau karena Samsung memegang paten teknologi layar sentuh.
 
