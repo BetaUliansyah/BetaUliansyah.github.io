@@ -1,16 +1,14 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+# subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Perkenalkan, nama saya Beta Uliansyah. Saya suka mengikuti perkembangan teknologi informasi, khususnya di bidang open source. Menggunakan Linux sejak awal tahun 2000. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+### kegiatan dan minat saat ini
 
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+- Mengajar di [PKN STAN](http://pknstan.ac.id/)
+- Belajar [Machine Learning](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
+- Belajar [Odoo ERP](https://github.com/odoo/odoo) bersama teman-teman [tarkiz](http://tarkiz.biz)
+- Mengelola web toko online [Bukukoe.com](http://www.bukukoe.com/)
