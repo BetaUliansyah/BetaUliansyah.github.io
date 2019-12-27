@@ -24,18 +24,22 @@ git clone https://github.com/minhng92/odoo-13-docker-compose.git
 
 ## Langkah 2: sesuaikan port sesuai rencana di atas
 `vi odoo-10-docker-compose\docker-compose.yml`
+
 ubah bagian ports menjadi seperti ini: 
 `      - "10000:8069"`
 
 `vi odoo-11-docker-compose\docker-compose.yml`
+
 ubah bagian ports menjadi seperti ini: 
 `      - "11000:8069"`
 
 `vi odoo-12-docker-compose\docker-compose.yml`
+
 ubah bagian ports menjadi seperti ini: 
 `      - "12000:8069"`
 
 `vi odoo-13-docker-compose\docker-compose.yml`
+
 ubah bagian ports menjadi seperti ini: 
 `      - "13000:8069"`
 
@@ -55,15 +59,15 @@ docker-compose up -d
 
 ## Langkah 4: Akses dari browser
 
-http://localhost:10000
-http://localhost:11000
-http://localhost:12000
-http://localhost:13000
+- http://localhost:10000
+- http://localhost:11000
+- http://localhost:12000
+- http://localhost:13000
 
 
 ## Langkah 5: upload add-ons
 
-Misal untuk Odoo versi 13
+Misal untuk Odoo versi 13:
 ```
 cd odoo-10-docker-compose\addons
 cp Downloads\om_account_accountant-13.0.1.0.0.zip 
@@ -73,6 +77,15 @@ unzip om_account_accountant-13.0.1.0.0.zip
 Nah, karena tiap docker-compose sudah menambahkan parameter `--dev` untuk development, maka setiap ada addons baru akan langsung terdeteksi.
 
 
-## Langkah 6: mulai mengembangkan addons dengan Visual Studio Code
+## Langkah 6: Stop dan Restart
+Masuk ke folder di mana file `docker-compose.yml` berada. 
+Untuk stop gunakan perintah:
+`docker-compose stop`
+
+Untuk restart gunakan perintah:
+`docker-compose restart`
+
+
+## Langkah 7: mulai mengembangkan addons dengan Visual Studio Code
 
 Semoga bermanfaat!
