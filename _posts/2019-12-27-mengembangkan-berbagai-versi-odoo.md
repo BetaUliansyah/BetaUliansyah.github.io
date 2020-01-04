@@ -69,10 +69,11 @@ docker-compose up -d
 
 Misal untuk Odoo versi 13:
 ```
-cd odoo-10-docker-compose\addons
+cd odoo-13-docker-compose\addons
 cp Downloads\om_account_accountant-13.0.1.0.0.zip 
 unzip om_account_accountant-13.0.1.0.0.zip
 ```
+_Thanks to Owo Sugiana, typo has been corrected_
 
 Nah, karena tiap docker-compose sudah menambahkan parameter `--dev` untuk development, maka setiap ada addons baru akan langsung terdeteksi.
 
