@@ -1,8 +1,9 @@
 ---
+title: Prestasi, Istiqomah dan Fitnah Akhir Jaman
+date: 2016-08-09 00:00:00 +07:00
+tags:
+- isi kepala
 layout: post
-title: "Prestasi, Istiqomah dan Fitnah Akhir Jaman"
-date: 2016-08-09
-tags: [isi kepala]
 ---
 
 Di Olimpiade Rio 2016 ini, ada akhwat Amerika yang ikut bertanding pada cabang olahraga Anggar (Fencing/Sabre). Namanya [Ibtihaj Muhammad](https://en.wikipedia.org/wiki/Ibtihaj_Muhammad). Dalam wawancara dengan Stephen Colbert di acara Late Show<sup>[1]</sup>, Ibtihaj mengatakan bahwa ketika dia kecil, semua orang bilang kalau gadis kecil kulit hitam berhijab tidak akan bisa melakukan apa-apa, tidak bisa meraih prestasi, maupun tidak punya masa depan yang cerah. Kedua orang tuanya sangat mendukung Ibtihaj melakukan kegiatan apa pun, Ibtihaj kecil mencoba hampir semua cabang olahraga, mulai dari atletik, voli, dll. Suatu saat ibunya melihat orang bermain Anggar dan kostumnya menutup seluruh badan. Ibunya lalu meminta Ibtihaj mencoba olahraga tsb, di saat umurnya 12 tahun. Pada tahun 2014 lalu, Ibtihaj memenangkan Kejuaraan Dunia Anggar bersama tim Amerika Serikat. Dan tahun 2016 ini, Ibtihaj akan tampil di Olimpiade Rio de Janeiro, Brazil.

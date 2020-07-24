@@ -1,8 +1,9 @@
 ---
-layout: post
 title: Membaca untuk Menulis
-date: 2017-09-29 00:00:00 +0700
-tags: [isi kepala]
+date: 2017-09-29 00:00:00 +07:00
+tags:
+- isi kepala
+layout: post
 ---
 
 Sudah beberapa tahun terakhir, saya kehilangan gairah menulis. Cek saja di tanggal arsip postingan blog ini. Tidak hanya di blog, kemalasan itu merembet pula ke kantor dan ~~bisnis~~ kegiatan lain. Ada semacam kejenuhan. Ada pula rasa ‘untuk apa sih’. Singkatnya, motivasi menulis saya turun sampai ke titik terendah.

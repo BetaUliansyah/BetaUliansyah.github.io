@@ -1,8 +1,9 @@
 ---
+title: Keluarga Uliansyah Memasak Bersama
+date: 2016-08-02 00:00:00 +07:00
+tags:
+- keluarga
 layout: post
-title: "Keluarga Uliansyah Memasak Bersama"
-date: 2016-08-02
-tags: [keluarga]
 ---
 
 Sama seperti umumnya sesama keluarga kaum urban di Jakarta coret, keluarga kami termasuk memanjakan anak-anak. Pelan-pelan, kami mencoba mulai membebankan tugas mengurus rumah dan diri sendiri kepada anak-anak. Salah satunya adalah dengan kegiatan memasak bersama.

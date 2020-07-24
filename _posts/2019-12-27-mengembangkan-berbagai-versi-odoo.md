@@ -1,8 +1,10 @@
 ---
+title: Menyiapkan Lingkungan Pengembangan Odoo berbagai versi dengan Docker
+date: 2019-12-27 00:00:00 +07:00
+tags:
+- odoo
+- techie
 layout: post
-title: "Menyiapkan Lingkungan Pengembangan Odoo berbagai versi dengan Docker"
-date: 2019-12-27
-tags: [odoo, techie]
 ---
 
 Bagi para developer Odoo, mengembangkan berbagai versi bisa membuat pening kepala. Tiap versi major Odoo mensyaratkan dukungan pustaka dan lingkungan yang berbeda-beda. Untuk mengatasi hal itu, cara berikut ini dapat digunakan. Kita akan menggunakan docker untuk menjalankan dan mengembangkan modul/add-ons untuk berbagai versi Odoo.

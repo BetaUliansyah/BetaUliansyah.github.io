@@ -1,8 +1,9 @@
 ---
+title: Truk dan Ekonomi Bangsa
+date: 2017-01-15 00:00:00 +07:00
+tags:
+- isi kepala
 layout: post
-title: "Truk dan Ekonomi Bangsa"
-date: 2017-01-15 00:00:00 +0700
-tags: [isi kepala]
 ---
 
 Siang itu saya berada dalam sebuah bus antar kota, terjebak di keramaian jalur tol Cikampek. Situasi itu sudah jamak dialami banyak orang, mungkin termasuk Anda juga. Kendaraan-kendaraan besar mendominasi ruas jalan. Tol dipenuhi dengan truk kontainer, truk kopel, truk box, truk engkel, truk tangki bahkan trailer dan tronton. Di jalur JORR, bertemu dengan truk adalah salah satu hal yang paling dihindari banyak orang. Kontur jalan yang turun naik, membuat kendaraan-kendaraan berbeban berat melambat dan menghambat kendaraan lain.

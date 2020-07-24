@@ -1,8 +1,9 @@
 ---
+title: Modal Usaha kok dari Bank?
+date: 2016-08-31 00:00:00 +07:00
+tags:
+- isi kepala
 layout: post
-title: "Modal Usaha kok dari Bank?" 
-date: 2016-08-31
-tags: [isi kepala]
 ---
 
 Modal usaha dari bank, saya kok hanya bisa menemukannya di Indonesia ya? Di buku2 text book akuntansi dan bisnis, selalu menyebutkan modal dari saham atau partnership. Sbg bukti, coba cari bgmn jurnalnya modal dari bank?

@@ -1,9 +1,11 @@
 ---
+title: Cara Mencari Peraturan Turunan Undang-Undang di SJDIH Kemenkeu
+date: 2015-03-23 00:00:00 +07:00
+tags:
+- tips
 layout: post
-title: "Cara Mencari Peraturan Turunan Undang-Undang di SJDIH Kemenkeu"
-date: 2015-03-23
-tags: [tips]
 ---
+
 Bismillah.
 
 Tulisan berikut ini membahas cara mencari peraturan turunan Undang-Undang dengan memanfaatkan situs SJDIH Kemenkeu (Situs Jaringan Informasi dan Hukum) yang beralamat di www.sjdih.depkeu.go.id. Ada tiga alasan kenapa saya menggunakan situs tersebut: 1) karena saya bekerja di Kemenkeu, akses ke sjdih jauh lebih cepat daripada mengakses internet, 2) struktur SJDIH Kemenkeu sudah cukup baik dan runut dalam menata produk hukum mulai dari Undang-Undang sampai PMK dan KMK, 3) karena saya tidak punya software berbayar untuk mencari produk hukum Indonesia.

@@ -1,8 +1,10 @@
 ---
+title: Mengkondisikan Anak Menjadi Tertib
+date: 2016-08-22 00:00:00 +07:00
+tags:
+- isi kepala
 layout: post
-title: "Mengkondisikan Anak Menjadi Tertib"
 subtitle: baik di masjid maupun tempat lainnya
-tags: [isi kepala]
 ---
 
 Beberapa waktu lalu, saya mengunjungi sebuah pondok pesantren. Ada hal menarik yang saya amati ketika turut sholat berjamaah di masjid pondok. Ribuan santri berusia awal belasan itu bisa teratur memasuki ruangan masjid berangsur-angsur. Tidak ada keributan berarti. Mereka umumnya langsung mengisi shaf terdepan yang masih bisa diisi, sholat sunnah tahiyatul masjid, lalu duduk tilawah quran atau menghafal, baik quran, hadits maupun matan kitab.

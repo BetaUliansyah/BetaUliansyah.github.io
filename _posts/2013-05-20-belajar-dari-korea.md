@@ -1,8 +1,9 @@
 ---
+title: Belajar dari Korea
+date: 2013-05-20 00:00:00 +07:00
+tags:
+- isi kepala
 layout: post
-title: "Belajar dari Korea"
-date: 2013-05-20 
-tags: [isi kepala]
 ---
 
 Pada suatu kesempatan (yang sangat berharga buat saya), saya bertemu dengan CEO sebuah perusahaan Korea. Perusahaan tsb adalah vendor teknologi untuk perusahaan-perusahaan besar Korea di bidang elektronika dan telekomunikasi. Perusahaan yang nggak terkenal namanya ini, bertugas membuat propotype produk yang akan diluncurkan di pasar.
